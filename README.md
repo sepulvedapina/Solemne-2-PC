@@ -10,6 +10,6 @@ Smiley Pattern (Green/Pink), Diseño de stock/recurso gráfico (autoría colecti
 <img width="1199" height="848" alt="image" src="https://github.com/user-attachments/assets/48ddd9be-eb8c-4bda-833d-a24fb55318cb" />
 Totally Obvs,Yoni Alter,2012
 <img width="1200" height="855" alt="image" src="https://github.com/user-attachments/assets/73bc838a-268c-445c-9bb6-7911b288f980"/>
- Totally Okay,Yoni Alter,2012
+Totally Okay,Yoni Alter,2012
 <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/0beed308-da52-4f77-807d-2e770a2f989e" />
- Falling into Line,Thomas Schostok (TSOP),2021
+Falling into Line,Thomas Schostok (TSOP),2021
