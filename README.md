@@ -20,6 +20,8 @@ Con todas las referencias encontradas, decidi que queria usar las caritas como e
 
 PROCESO:
 Parti bocetiando la idea incial que era que las caras se vayan desplazando por los botones al momento del mouse subir y bajar cambiando su color y expresión:
+
+
 <img width="588" height="1600" alt="image" src="https://github.com/user-attachments/assets/12ce710b-be48-4244-ab35-9802013a5d8c" />
 luego del boceto partí colocando los elementos principales de mi composición, un rectangulo en forma de pastilla junto con una carita triste
 <img width="423" height="304" alt="image" src="https://github.com/user-attachments/assets/00de0d03-2b7c-461f-8141-f4f7a8f67575" />
