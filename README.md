@@ -2,6 +2,7 @@
 Proceso de creación de la solemne 2 de PC
 
 https://editor.p5js.org/martina.sepulveda2/sketches/kfavAGeYj Editable
+
 https://editor.p5js.org/martina.sepulveda2/full/kfavAGeYj  Vista
 
 
