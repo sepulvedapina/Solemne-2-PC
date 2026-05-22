@@ -43,3 +43,10 @@ para luego ir dando valores a mousex y mouse respecto a su posición:
 - mouse arriba izquierda = carita feliz verde
 - mouse arriba fondo rosado
 - mouse abajo fondo turquesa.
+<img width="700" height="511" alt="image" src="https://github.com/user-attachments/assets/18a8057c-8df0-4cad-bb40-ca75cda65310" />
+<img width="702" height="516" alt="image" src="https://github.com/user-attachments/assets/038b154c-6ee7-43d3-b279-7ea159fa76c8" />
+<img width="707" height="517" alt="image" src="https://github.com/user-attachments/assets/c018c41d-6ea8-4162-8b52-f321a1061bc1" />
+<img width="700" height="519" alt="image" src="https://github.com/user-attachments/assets/8f6acd01-6f56-40df-bc8b-bb0119121ff5" />
+
+
+
