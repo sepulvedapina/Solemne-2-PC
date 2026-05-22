@@ -51,5 +51,6 @@ para luego ir dando valores a mousex y mouse respecto a su posición:
 <img width="707" height="517" alt="image" src="https://github.com/user-attachments/assets/c018c41d-6ea8-4162-8b52-f321a1061bc1" />
 <img width="700" height="519" alt="image" src="https://github.com/user-attachments/assets/8f6acd01-6f56-40df-bc8b-bb0119121ff5" />
 
-
+DIAGRAMA DE FLUJO 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/8f3fea4e-4050-4b3c-b214-e6085c84dee3" />
 
