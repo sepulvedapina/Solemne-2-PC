@@ -6,9 +6,12 @@ https://editor.p5js.org/martina.sepulveda2/sketches/kfavAGeYj Editable
 https://editor.p5js.org/martina.sepulveda2/full/kfavAGeYj  Vista
 
 <img width="1100" height="800" alt="image" src="https://github.com/user-attachments/assets/475cf55c-5c54-43f5-8913-44671d406ef9" />
+Este proyecto, desarrollado en p5.js, explora la representación de emociones a través de la programación creativa. La obra busca generar expresiones dinámicas que responden a la interacción del usuario.
+Un experimento de programación creativa que traduce la complejidad del gesto humano a formas geométricas básicas. A través de la interacción, el usuario navega por un espectro de emociones diseñado para reaccionar al movimiento del mouse, permitiendo capturar y exportar cada iteración como una pieza gráfica única.
 
 REFERENCIAS: 
 Primero empeze a buscar muchas referencias en pinterest y la que más me llamo la atención fue el uso de caras cambiando de emociones.
+Este proyecto se inspiró en la estética de los diseñadores y obras referenciadas a continuación:
 Además las referencias tenian un alto contraste de colores llamativos, algunas referencias son:
 <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/353ca2ec-091a-48b8-9fe5-6f9094a8991d" />
 Mood Swing,Thomas Schostok (TSOP),2021
