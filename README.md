@@ -28,3 +28,5 @@ luego del boceto partí colocando los elementos principales de mi composición, 
 Luego ocupe el comando de repetir en todo el plano para poder facilitar un poco el proceso:
 <img width="1524" height="1079" alt="image" src="https://github.com/user-attachments/assets/97e3fd67-3845-4d8b-bd31-959a10974b6f" />
 
+
+
