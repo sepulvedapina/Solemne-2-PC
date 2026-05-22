@@ -1,5 +1,9 @@
 # Solemne-2-PC
 Proceso de creación de la solemne 2 de PC
+https://editor.p5js.org/martina.sepulveda2/sketches/kfavAGeYj Editable
+https://editor.p5js.org/martina.sepulveda2/full/kfavAGeYj  Vista
+
+
 REFERENCIAS: 
 Primero empeze a buscar muchas referencias en pinterest y la que más me llamo la atención fue el uso de caras cambiando de emociones.
 Además las referencias tenian un alto contraste de colores llamativos, algunas referencias son:
@@ -13,3 +17,6 @@ Totally Obvs,Yoni Alter,2012
 
 <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/0beed308-da52-4f77-807d-2e770a2f989e" />
  Falling into Line,Thomas Schostok (TSOP),2021
+
+Este trabajo representa una pieza de diseño interactivo desarrollada en p5.js que explora la representación gráfica de las emociones a través de interfaces dinámicas.
+Formas orgánicas (cápsulas con bordes redondeados), uso de colores contrastantes (alto impacto visual), tipografía minimalista y elementos de interfaz de usuario (UI).
