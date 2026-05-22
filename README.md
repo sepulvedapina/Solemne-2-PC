@@ -5,6 +5,7 @@ https://editor.p5js.org/martina.sepulveda2/sketches/kfavAGeYj Editable
 
 https://editor.p5js.org/martina.sepulveda2/full/kfavAGeYj  Vista
 
+<img width="1100" height="800" alt="image" src="https://github.com/user-attachments/assets/475cf55c-5c54-43f5-8913-44671d406ef9" />
 
 REFERENCIAS: 
 Primero empeze a buscar muchas referencias en pinterest y la que más me llamo la atención fue el uso de caras cambiando de emociones.
